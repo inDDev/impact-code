@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Impact Code, an initiative by inDDev
 
-You can use the [editor on GitHub](https://github.com/inDDev/impact-code/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Impact Code is designed on the belief that everyone wants to leave behind something that is greater than the sum of their life. It stems from a desire to go beyond professional challenges and take on life challenges. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sometimes these challenges will be localized to a country, and other times they may affect just 100 people living in a remote part of Earth. The target audience will keep changing, and so will the models for impacting them in a positive manner. This page serves as a repository for these models and thought structures. 
+
+For more details on Mental Models (which have played) a huge role in shaping our philosophy, we thoroughly recommend [reading up on them.](https://fs.blog/mental-models/) 
+
 
 ### Markdown
 
