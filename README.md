@@ -6,7 +6,17 @@ Sometimes these challenges will be localized to a country, and other times they 
 
 For more details on Mental Models (which have played) a huge role in shaping our philosophy, we thoroughly recommend [reading up on them.](https://fs.blog/mental-models/) 
 
-
+Few of the best places to start with:
+[Open Government Data (OGD) Platform India](http://data.gov.in/)
+[National Portal of India](http://india.gov.in/)
+[Ministry of Statistics and Programme Implementation](http://mospi.nic.in/Mospi_New/site/home.aspx)
+[Home: Survey of India](http://www.surveyofindia.gov.in/)
+[Office of the Registrar General & Census Commissioner, India](http://censusindia.gov.in/)
+[India | Economic Indicators](http://www.tradingeconomics.com/india/indicators)
+[Welcome to Homepage of Planning Commission](http://planningcommission.nic.in/)
+[India Map, Map of India](http://www.mapsofindia.com/)
+[Gateway to Indian Earth Observation](http://bhuvan.nrsc.gov.in/bhuvan_links.php)
+[WorldBank](http://data.worldbank.org/country/india)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
